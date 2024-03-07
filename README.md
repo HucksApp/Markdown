@@ -30,6 +30,9 @@ Markdown-clean-sheat 📃
 Common text
 
     Markup :  Common text
+    
+Change text color
+    Markup : <span style="color:blue">some blue text</span>.
 
 _Emphasized text_
 
