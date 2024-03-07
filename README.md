@@ -2,6 +2,11 @@ Markdown-clean-sheat 📃
 ===================
 
 - - - - 
+
+# USE OF HTML3/CSS3 inline styling  Works on Markdown
+
+
+
 # Heading 1 #
 
     Markup :  # Heading 1 #
